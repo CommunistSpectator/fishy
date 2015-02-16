@@ -1,5 +1,14 @@
 Enumerate activities on github which will award experience or other character effects
+  pull request
+  create issue
+  fix issue
+  delete repo (remove all associated xp or add undead xp? or something)
+  commit
+  
 Build backend to track github usernames, assign character names (mongodb)
+
 Build fishy commands to edit character names, other info
+
 Build fishy commands to display character information
 
+Build duel system
